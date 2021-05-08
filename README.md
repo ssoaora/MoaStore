@@ -9,4 +9,10 @@ MoaStore is a easy-to-use, always-ready, online-altstore source for you.
 There are only a few apps available, but we'll add more and more..
 
 #### Current Apps
-Spotify 8.6.24
+Spotify 8.6.24  
+
+## How to use?
+You can add MoaStore to AltStore app only on AltStore BETA.  
+
+Go to Browse - Sources - Click the add (+) button and copy paste the link below.  
+https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/apps.json

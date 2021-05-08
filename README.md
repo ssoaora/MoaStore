@@ -16,3 +16,6 @@ You can add MoaStore to AltStore app only on AltStore BETA.
 
 Go to Browse - Sources - Click the add (+) button and copy paste the link below.  
 https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/apps.json
+
+## ScreenShots
+![shot](https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/work/Slide.png)

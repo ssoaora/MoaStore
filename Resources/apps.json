@@ -1,0 +1,63 @@
+
+{
+  "name": "MoaStore",
+  "identifier": "com.live2bdead.MoaStore",
+  "sourceURL": "",
+  "apps": [
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "julioverne",
+      "version": "8.6.24",
+      "versionDate": "2021-05-08T09:19:03.034Z",
+      "versionDescription": "Spotilife v1.5 (thanks @julioverne).",
+      "downloadURL": "https://drive.google.com/u/1/uc?id=13bslXbFObU0kOKHDAWzqvbfc99JgsAU3&export=download",
+      "localizedDescription": "Spotify is the best way to listen to music and podcasts on mobile or tablet. \n\nThis version of Spotify has a free Spotify Premium membership thanks to @julioverne.",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify.png",
+      "tintColor": "2BAE66",
+      "size": 55574528,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/1.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/3.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/4.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/5.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/6.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/7.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/8.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/9.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/10.webp",
+      ],
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Spotify to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Spotify Now Available",
+      "identifier": "spotify-now-available",
+      "caption": "Listen to music and podcasts on mobile or tablet.",
+      "tintColor": "2BAE66",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Background.png",
+      "appID": "com.spotify.client",
+      "date": "2021-05-08",
+      "notify": true
+    },
+    {
+      "title": "Welcome to MoaStore",
+      "identifier": "welcome-to-moastore",
+      "caption": "Please request apps at github issues",
+      "tintColor": "ed6f63",
+      "url": "https://github.com/aesoppppp/MoaStore",
+      "date": "2021-05-08",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}

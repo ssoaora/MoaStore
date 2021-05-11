@@ -1,4 +1,3 @@
-
 {
   "name": "MoaStore",
   "identifier": "com.live2bdead.MoaStore",
@@ -13,25 +12,104 @@
       "versionDescription": "Released with Spotilife v1.5 (thanks to @julioverne) + Sposify v8.5.52",
       "downloadURL": "https://drive.google.com/u/1/uc?id=11RiDaqkyc51oaqdnaZgzTnuHmU3B-3r8&export=download",
       "localizedDescription": "Spotify is the best way to listen to music and podcasts on mobile or tablet. \n\nThis version of Spotify has a free Spotify Premium membership thanks to @julioverne. \n\nThis version also includes Sposify",
-      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify.png",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Spotify.png",
       "tintColor": "2BAE66",
       "size": 55574528,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/1.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/3.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/4.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/5.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/6.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/7.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/8.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/9.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/10.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/1.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/2.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/3.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/4.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/5.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/6.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/7.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/8.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/9.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/10.webp"
       ],
       "permissions": [
         {
           "type": "background-audio",
           "usageDescription": "Allows Spotify to run longer than 30 seconds when refreshing apps in background."
+        }
+      ]
+    },
+    {
+      "name": "NBA 2K21 Arcade Edition",
+      "bundleIdentifier": "com.nba2k21.game",
+      "developerName": "2K",
+      "version": "1.0.13558545",
+      "versionDate": "2021-05-11T08:00:04.755Z",
+      "versionDescription": "Latest NBA2K21 from Apple Arcade! \n\nUPDATED 2021 ROSTER: Run with your favorite NBA superstars of the 2020-2021 season–Jayson Tatum, Ben Simmons, Jimmy Butler, Chris Paul, Kyrie Irving, and more.",
+      "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=dv1q&id=1eyQE6S2g-6tmedvTbiIxb0DAcSXh3K6-",
+      "localizedDescription": "Making its highly-anticipated debut on Apple Arcade, NBA 2K21 puts you on the court with today’s top NBA stars like Damian Lillard, Kevin Durant, Steph Curry, Zion Williamson, and Anthony Davis. Pickup a competitive Quick Match in one of 30 NBA arenas or on the Blacktop. Jump into a multiplayer game with up to 2 friends, or start your journey to NBA legend status in MyCAREER mode. Sporting a new graphics engine that offers the highest possible resolution Apple devices allow, Everything Is Game in NBA 2K21. \n\nNEW GRAPHICS ENGINE: Experience smoother gameplay and significantly improved visuals, AI, and animations on your iPhone, iPad, Apple TV, and Mac.",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/2K21/2K21.png",
+      "tintColor": "da2550",
+      "size": 4037269258.24,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/1.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/2.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/3.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/4.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/5.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/6.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/7.webp"
+      ],
+      "permissions": [
+        {
+        }
+      ]
+    },
+    {
+      "name": "GoodNotes 5",
+      "bundleIdentifier": "com.good.notes",
+      "developerName": "Time Base Technology Limited",
+      "version": "5.7.2",
+      "versionDate": "2021-05-11T09:05:01.651Z",
+      "versionDescription": "- Wrap dropbox remote path with quotes if there's a space \n- Fix crash when sharing PDF based Elements \n- Demographic surveys for education level and subjects study \n- Fix crash when downsizing images for Elements thumbnail preview \n- Fix window missing crashes when user picks or perform drag and drop \n- Fix dragged image from photos toolbar results in low resolution, stability fix and size alignment",
+      "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=Wtq1&id=1KPoKawukUEsxk4C5jF0qo55l8FTLl2cp",
+      "localizedDescription": "Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again. GoodNotes is one of the top paid iPad apps worldwide and is frequently featured on the App Store, making it a must-have for your iPad. \n\nPAPERLESS DOCUMENT MANAGEMENT \n* Organize your documents in folders and create unlimited subfolders \n* Mark your most important documents, pages, and folders as Favorites to access them quickly \n* Create custom outlines for easier navigation through your documents \n* Instant export of documents or pages as PDF via drag and drop \n\nALL YOUR NOTES ALWAYS WITH YOU \n* Sync your latest changes to your iPad, iPhone, and other Macs using iCloud \n* Prepare documents on your Mac and pick them up on another device to continuously work on them",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/GoodNotes.png",
+      "tintColor": "04cbff",
+      "size": 209715200,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/1.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/2.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/3.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/4.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/5.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/6.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/7.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/8.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/GoodNotes/9.webp"
+      ],
+      "permissions": [
+        {
+        }
+      ]
+    },
+    {
+      "name": "Ord.",
+      "bundleIdentifier": "com.ord.game",
+      "developerName": "Crescent Moon Games",
+      "version": "1.2.15",
+      "versionDate": "2021-05-11T08:40:33.217Z",
+      "versionDescription": "-New Story to follow! \n-Bug fixes",
+      "downloadURL": "https://drive.google.com/u/1/uc?id=1huUXDl0CaZMNIgYUN-o67-dafca0fdQ9&export=download",
+      "localizedDescription": "Whether it is embarking on a quest to defeat an evil warlock or creating your own world as a god, Ord. tells stories that emphasise player choices and evocative fast-paced narratives. \n\nTHREE additional stories for a total of four. \nNew visual polish and sound effects. \nMore achievements to hunt for!",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Ord/Ord.png",
+      "tintColor": "525152",
+      "size": 55574528,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/1.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/2.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/3.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/4.webp",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/5.jpg",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Ord/6.webp"
+      ],
+      "permissions": [
+        {
         }
       ]
     }
@@ -42,9 +120,38 @@
       "identifier": "spotify-now-available",
       "caption": "Now with Free Premium membership and Sposify",
       "tintColor": "2BAE66",
-      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Background.png",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Background.png",
       "appID": "com.spotify.client",
       "date": "2021-05-08",
+      "notify": true
+    },
+    {
+      "title": "1st on Apple Arcade! NBA2K21 is here!",
+      "identifier": "2k21-now-available",
+      "caption": "Join in with your favorite NBA player!",
+      "tintColor": "da2550",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/2K21/Background.jpg",
+      "appID": "com.nba2k21.game",
+      "date": "2021-05-11",
+      "notify": true
+    },
+    {
+      "title": "GoodNotes 5 is here!",
+      "identifier": "goodnotes-now-available",
+      "caption": "Best app for Note-Taking & PDF Markup",
+      "tintColor": "04cbff",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/Background.png",
+      "appID": "com.good.notes",
+      "date": "2021-05-11",
+      "notify": true
+    },
+    {
+      "title": "Now supporting Apple Arcade games!",
+      "identifier": "support-arcade",
+      "caption": "We are bringing more games for you",
+      "tintColor": "ff6452",
+      "url": "https://github.com/aesoppppp/MoaStore",
+      "date": "2021-05-11",
       "notify": true
     },
     {

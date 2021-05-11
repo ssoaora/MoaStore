@@ -58,11 +58,11 @@
     },
     {
       "name": "GoodNotes 5",
-      "bundleIdentifier": "com.good.notes",
+      "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "Time Base Technology Limited",
       "version": "5.7.2",
       "versionDate": "2021-05-11T09:05:01.651Z",
-      "versionDescription": "- Wrap dropbox remote path with quotes if there's a space \n- Fix crash when sharing PDF based Elements \nView other changes at AppStore",
+      "versionDescription": "- Wrap dropbox remote path with quotes if there's a space \n- Fix crash when sharing PDF based Elements \n\nView other changes at AppStore",
       "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=Wtq1&id=1KPoKawukUEsxk4C5jF0qo55l8FTLl2cp",
       "localizedDescription": "Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again.",
       "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/GoodNotes.png",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Ord.",
-      "bundleIdentifier": "com.ord.game",
+      "bundleIdentifier": "com.crescentmoongames.ord",
       "developerName": "Crescent Moon Games",
       "version": "1.2.15",
       "versionDate": "2021-05-11T08:40:33.217Z",
@@ -114,7 +114,7 @@
       "notify": true
     },
     {
-      "title": "1st on Apple Arcade! NBA2K21 is here!",
+      "title": "Open issues at GitHub and tell us Bundle ID!",
       "identifier": "2k21-now-available",
       "caption": "Join in with your favorite NBA player!",
       "tintColor": "da2550",
@@ -129,7 +129,7 @@
       "caption": "Best app for Note-Taking & PDF Markup",
       "tintColor": "04cbff",
       "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/Background.png",
-      "appID": "com.good.notes",
+      "appID": "com.goodnotesapp.x",
       "date": "2021-05-11",
       "notify": true
     },

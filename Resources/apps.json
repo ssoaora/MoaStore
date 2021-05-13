@@ -6,26 +6,26 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "julioverne",
-      "version": "8.6.24",
-      "versionDate": "2021-05-08T09:19:03.034Z",
-      "versionDescription": "Released with Spotilife v1.5 (thanks to @julioverne) + Sposify v8.5.52",
-      "downloadURL": "https://drive.google.com/u/1/uc?id=11RiDaqkyc51oaqdnaZgzTnuHmU3B-3r8&export=download",
+      "developerName": "Spotify Ltd. & julioverne",
+      "version": "8.6.26",
+      "versionDate": "2021-05-12T05:42:48.936Z",
+      "versionDescription": "-Fixed performance issues",
+      "downloadURL": "https://drive.google.com/u/1/uc?id=15WNx0IPzKhjpEDMWdETYCqUyW8gNI_v7&export=download",
       "localizedDescription": "Spotify is the best way to listen to music and podcasts on mobile or tablet. \n\nThis version of Spotify has a free Spotify Premium membership thanks to @julioverne. \n\nThis version also includes Sposify",
       "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Spotify.png",
       "tintColor": "2BAE66",
       "size": 55574528,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/1.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/2.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/3.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/4.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/5.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/6.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/7.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/8.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/9.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/10.webp"
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/1.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/2.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/3.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/4.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/5.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/6.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/7.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/8.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/9.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/10.png"
       ],
       "permissions": [
         {
@@ -106,11 +106,11 @@
     {
       "title": "Listen to your favorite song with Spotify!",
       "identifier": "spotify-now-available",
-      "caption": "Now with Free Premium membership and Sposify",
+      "caption": "Updated to latest version 8.6.26 \nNow with Free Premium membership and Sposify",
       "tintColor": "2BAE66",
       "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Background.png",
       "appID": "com.spotify.client",
-      "date": "2021-05-08",
+      "date": "2021-05-12",
       "notify": true
     },
     {

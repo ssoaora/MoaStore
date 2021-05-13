@@ -9,7 +9,7 @@ MoaStore is a easy-to-use, always-ready, online-altstore source for you.
 There are only a few apps available, but we'll add more and more..
 
 #### Current Apps
-- Spotify 8.6.24  
+- Spotify 8.6.22 Stable Version  
 - NBA 2K21 Arcade Edition  
 - GoodNotes 5  
 - Ord.  

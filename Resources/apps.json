@@ -90,7 +90,7 @@
       "downloadURL": "https://drive.google.com/u/2/uc?id=1SPqZTHGC0egViBSNrR8r1uzBfadt3D7g&export=download",
       "localizedDescription": "Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.",
       "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch/twitch.jpg",
-      "tintColor": "6441A5",
+      "tintColor": "9147FE",
       "size": 39426457,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/1.png",
@@ -117,9 +117,9 @@
       "identifier": "twitch-now-available",
       "caption": "Enjoy your favorite streams with no ADs",
       "tintColor": "6441A5",
-      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/Background.png",
-      "appID": "com.goodnotesapp.x",
-      "date": "2021-05-11",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch/Background.png",
+      "appID": "tv.twitch",
+      "date": "2021-07-10",
       "notify": true
     },
     {

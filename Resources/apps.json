@@ -89,15 +89,15 @@
       "versionDescription": "-Update to v11.1 \n-Bug fixes",
       "downloadURL": "https://drive.google.com/u/2/uc?id=1SPqZTHGC0egViBSNrR8r1uzBfadt3D7g&export=download",
       "localizedDescription": "Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.",
-      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch++/twitch.jpg",
+      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch/twitch.jpg",
       "tintColor": "6441A5",
       "size": 39426457,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch++/1.png",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch++/2.png",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch++/3.png",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch++/4.png",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch++/5.png"
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/1.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/2.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/3.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/4.png",
+        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Twitch/5.png"
       ]
     }
   ],

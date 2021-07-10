@@ -117,7 +117,7 @@
       "identifier": "twitch-now-available",
       "caption": "Enjoy your favorite streams with no ADs",
       "tintColor": "6441A5",
-      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch/Background.png",
+      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Twitch/background.png",
       "appID": "tv.twitch",
       "date": "2021-07-10",
       "notify": true

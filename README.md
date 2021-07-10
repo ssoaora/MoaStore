@@ -10,9 +10,9 @@ There are only a few apps available, but we'll add more and more..
 
 #### Current Apps
 - Spotify 8.6.22 Stable Version  
-- NBA 2K21 Arcade Edition  
+- Twitch++  
 - GoodNotes 5  
-- Ord.  
+- NBA 2K21 Arcade Edition  
 
 ## How to use?
 You can add MoaStore to AltStore app only on AltStore BETA.  

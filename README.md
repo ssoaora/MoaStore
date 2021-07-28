@@ -9,7 +9,7 @@ MoaStore is a easy-to-use, always-ready, online-altstore source for you.
 There are only a few apps available, but we'll add more and more..
 
 #### Current Apps
-- Spotify 8.6.42 (with Spotilife v1.6 and Sposify!)  
+- Spotify 8.6.42 (with Spotilife v1.7 and Sposify!)  
 - Twitch++  
 - GoodNotes 5  
 - NBA 2K21 Arcade Edition  

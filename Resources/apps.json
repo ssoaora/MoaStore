@@ -35,28 +35,6 @@
       ]
     },
     {
-      "name": "NBA 2K21 Arcade Edition",
-      "bundleIdentifier": "com.nba2k21.game",
-      "developerName": "2K",
-      "version": "1.0.13558545",
-      "versionDate": "2021-05-11T08:00:04.755Z",
-      "versionDescription": "Warning: This app's size is 4GB! \nLatest NBA2K21 from Apple Arcade! \n\nUPDATED 2021 ROSTER: Run with your favorite NBA superstars of the 2020-2021 season–Jayson Tatum, Ben Simmons, Jimmy Butler, Chris Paul, Kyrie Irving, and more.",
-      "downloadURL": "https://drive.google.com/u/1/uc?export=download&confirm=dv1q&id=1eyQE6S2g-6tmedvTbiIxb0DAcSXh3K6-",
-      "localizedDescription": "Making its highly-anticipated debut on Apple Arcade, NBA 2K21 puts you on the court with today’s top NBA stars.\n\nNEW GRAPHICS ENGINE",
-      "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/2K21/2K21.png",
-      "tintColor": "da2550",
-      "size": 419430400,
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/1.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/2.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/3.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/4.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/5.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/6.webp",
-        "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/2K21/7.webp"
-      ]
-    },
-    {
       "name": "GoodNotes 5",
       "bundleIdentifier": "com.goodnotesapp.x",
       "developerName": "Time Base Technology Limited",
@@ -123,31 +101,12 @@
       "notify": true
     },
     {
-      "title": "Open issues at GitHub and tell us Bundle ID!",
-      "identifier": "2k21-now-available",
-      "caption": "Join in with your favorite NBA player!",
-      "tintColor": "da2550",
-      "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/2K21/Background.jpg",
-      "appID": "com.nba2k21.game",
-      "date": "2021-05-11",
-      "notify": true
-    },
-    {
       "title": "GoodNotes 5 is here!",
       "identifier": "goodnotes-now-available",
       "caption": "Best app for Note-Taking & PDF Markup",
       "tintColor": "04cbff",
       "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/GoodNotes/Background.png",
       "appID": "com.goodnotesapp.x",
-      "date": "2021-05-11",
-      "notify": true
-    },
-    {
-      "title": "Now supporting Apple Arcade games!",
-      "identifier": "support-arcade",
-      "caption": "We are bringing more games for you",
-      "tintColor": "ff6452",
-      "url": "https://github.com/aesoppppp/MoaStore",
       "date": "2021-05-11",
       "notify": true
     },

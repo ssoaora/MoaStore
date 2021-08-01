@@ -10,7 +10,7 @@ There are only a few apps available, but we'll add more and more..
 
 #### Current Apps
 - Spotify 8.6.42 (with Spotilife v1.7 and Sposify!)  
-- Twitch++  
+- Twitch++ 11.2.1  
 - GoodNotes 5  
 - NBA 2K21 Arcade Edition  
 

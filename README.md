@@ -1,8 +1,5 @@
-# Hello there 👋
+# ⚠ This source is down until new patch comes out
 ## _Welcome to MoaStore!_
-### Brought to you by..
-
-ssoaora  
 
 MoaStore is a easy-to-use, always-ready, online-altstore source for you.  
 There are only a few apps available, but we'll add more and more..

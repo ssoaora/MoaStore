@@ -7,14 +7,14 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify Ltd. & julioverne",
-      "version": "8.6.42",
-      "versionDate": "2021-07-27T08:18:42.274Z",
-      "versionDescription": "- Updated to Spotilife v1.7",
-      "downloadURL": "https://drive.google.com/u/2/uc?id=1UG1Vepa8KjSwBeRv_xX81RUP8HJSskSL&export=download",
+      "version": "8.5.60",
+      "versionDate": "2021-11-21T15:33:20.186Z",
+      "versionDescription": "NEW VERSION IS OUT!\n- Updated to Spotilife v1.7a",
+      "downloadURL": "https://drive.google.com/u/3/uc?id=1jckmo0mA7FUDwUuWw2VqiCjVFoyHvu50&export=download",
       "localizedDescription": "Spotify is the best way to listen to music and podcasts on mobile or tablet. \n\nThis version of Spotify has a free Spotify Premium membership thanks to @julioverne. \n\nThis version also includes Sposify",
       "iconURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Spotify.png",
       "tintColor": "2BAE66",
-      "size": 50436505,
+      "size": 50400000,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/1.png",
         "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/ScreenShots/Spotify/2.png",
@@ -87,7 +87,7 @@
       "tintColor": "2BAE66",
       "imageURL": "https://raw.githubusercontent.com/aesoppppp/MoaStore/main/Resources/AppIcon/Spotify/Background.png",
       "appID": "com.spotify.client",
-      "date": "2021-07-10",
+      "date": "2021-11-22",
       "notify": true
     },
     {
